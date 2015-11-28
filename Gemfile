@@ -45,4 +45,4 @@ group :development do
   gem 'spring'
 end
 
-gem 'mandrill-rails', '~> 1.4.0'
+gem 'mandrill-rails', '~> 1.4.1'
